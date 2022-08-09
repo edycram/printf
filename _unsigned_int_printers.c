@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _print_binary - takes an unsigned int and prints it in binary notation
+ * _print_binary - takes an unsigned int and prints in binary notation
  * @args: arguments list
  *
  * Return: number of characters printed

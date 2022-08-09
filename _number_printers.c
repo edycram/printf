@@ -2,7 +2,7 @@
 
 /**
  * _print_decimal - prints a decimal number
- * @args: list of arguments
+ * @args: the list of arguments
  *
  * Return: number of chars printed
  */

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * hex_print - prints a char's ascii value in uppercase hex
+ * hex_print - prints char's ascii value in uppercase hex
  * @c: char to print
  *
  * Return: number of chars printed (always 2)

@@ -1,4 +1,4 @@
-.TH _PRINTF 3  "0x11. C - _printf"
+i.TH _PRINTF 3  "0x11. C - _printf"
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
@@ -172,7 +172,7 @@ terminating null byte ('\\0').
 .B S
 .in +2n
 Identical to the \fBS\fR conversion specifier, except any non-printable
-characters in the array (ie. characters with an ASCII value < 32 or >= 127)
+characters in the array (i.e characters with an ASCII value < 32 or >= 127)
 are written as \fB\\x\fR followed by the ASCII code value in hexadecimal
 (upper case, two characters).
 .in

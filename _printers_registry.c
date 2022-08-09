@@ -2,7 +2,7 @@
 
 /**
  * _get_printer - checks for a registered printer for a given specifier
- * @specifier: the specifier to get a printer for
+ * @specifier: specifier to get a printer for
  *
  * Return: the printer found. if no valid printer exists,
  * a default NULL-based printer is returned
