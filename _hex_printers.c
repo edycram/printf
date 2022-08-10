@@ -2,7 +2,7 @@
 
 /**
  * _pow - calculates an exponent
- * @base: base of exponent
+ * @base: the base of exponent
  * @exponent: exponent of number
  *
  * Return: base ^ exponent

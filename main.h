@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 /**
- * struct printer - structure for printing to stdout, given a specifier
+ * struct printer - the structure for printing to stdout, given a specifier
  * @specifier: the specifier recognized by this printer (without the %)
  * @run: the function to run when this printer is invoked
  */
